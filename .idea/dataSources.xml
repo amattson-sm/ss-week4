@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="site" uuid="33bafa72-7913-4943-8195-2b20c77cbb63">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:G:\Users\aidan\Desktop\Hub\Work\SmoothStack\IntroPython\FlaskIntro\samples\03-Forms-and-Validation\site.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
